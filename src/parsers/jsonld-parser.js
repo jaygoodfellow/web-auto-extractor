@@ -16,9 +16,7 @@ export default function (html, config = {}) {
         jsonldData[type] = jsonldData[type] || []
         jsonldData[type].push(obj)
       })
-    } catch (e) {
-      console.log(`Error in jsonld parse - ${e}`)
-    }
+    } catch (e) {}
   })
 
   return jsonldData
