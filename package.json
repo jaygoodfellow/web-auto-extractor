@@ -38,9 +38,9 @@
     "seo"
   ],
   "author": {
-  "name": "Jay Goodfellow",
-  "email": "jaygoodfellow@gmail.com"
-},
+    "name": "Jay Goodfellow",
+    "email": "jaygoodfellow@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jaygoodfellow/web-auto-extractor"
